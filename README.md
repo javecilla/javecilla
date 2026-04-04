@@ -29,7 +29,7 @@ My primary tech stack consists of **Laravel, Vue/React, and PostgreSQL**. While 
 
 In recent months, I have been concentrating on **System and Agent architecture design** alongside exploring practical application scenarios to bring the 'AI Predicting the Future' vision to life.
 
-I am a 3rd-year IT student at **BulSU**, based in Central Luzon, Philippines. I aim to grow into a full-stack engineer and independent developer recognized for polished, aesthetic, and thoughtful digital work.
+I am a 3rd-year IT student at **BulSU**, based in Central Luzon, Philippines. I aim to grow into a web full-stack engineer and independent developer recognized for polished, aesthetic, and thoughtful digital work.
 
 ---
 
