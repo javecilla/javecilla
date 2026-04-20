@@ -1,4 +1,4 @@
-## 👋 Hi! I'm Javecilla 
+## 👋 Kamusta ka! As we say here
 
 <p align="left">
 
