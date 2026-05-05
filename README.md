@@ -14,7 +14,7 @@
 
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 
-  <img src="https://img.shields.io/badge/LLM-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Next.js-412991?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
 
   <img src="https://img.shields.io/badge/AI_Agent-5A2B93?style=for-the-badge&logo=robotframework&logoColor=white"/>
 </p>
