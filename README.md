@@ -16,7 +16,7 @@
 
   <img src="https://img.shields.io/badge/Next.js-412991?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
 
-  <img src="https://img.shields.io/badge/AI_Agent-5A2B93?style=for-the-badge&logo=robotframework&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AI-5A2B93?style=for-the-badge&logo=robotframework&logoColor=white"/>
 </p>
 
 ---
