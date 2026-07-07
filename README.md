@@ -27,7 +27,7 @@ Hi im Jerome. I am deeply passionate about web development, my long-term focus h
 
 In recent months, I have been concentrating on **System and Agent architecture design** alongside exploring practical application scenarios to bring the 'AI Predicting the Future' vision to life.
 
-Based in Central Luzon, Philippines. I aim to grow into a full-stack web and ai systems developer and independent developer recognized for polished, aesthetic, and thoughtful digital work.
+Based in Central Luzon, Philippines. I aim to grow into a ai systems, web and mobile developer and independent dev recognized for polished, aesthetic, and thoughtful digital work.
 
 ---
 
