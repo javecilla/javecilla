@@ -26,31 +26,3 @@
 Hi im Jerome. I am deeply passionate about web development, my long-term focus has shifted towards **AI, LLM, and Agent systems**, specifically integrating these AI-powered capabilities into every web application I build. 
 
 In recent months, I have been concentrating on **System and Agent architecture design** alongside exploring practical application scenarios to bring the 'AI Predicting the Future' vision to life. Based in Central Luzon, Philippines. I aim to grow into a ai systems engineering, web and mobile development.
-
----
-
-### Connect with me:
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=javecilla&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" height="100" />
-  
-  <a href="https://javecilla.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/%20-%2324292e.svg?style=for-the-badge&logo=pfsense&logoColor=white" alt="Portfolio" height="30" />
-  </a>
-
-  <a href="mailto:jeromesavc@gmail.com">
-    <img src="https://img.shields.io/badge/%20-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" height="30" />
-  </a>
-
-  <a href="https://x.com/_javecilla" target="_blank">
-    <img src="https://img.shields.io/badge/%20-%23000000.svg?style=for-the-badge&logo=x&logoColor=white" alt="X" height="30" />
-  </a>
-
-  <a href="https://instagram.com/_javecilla" target="_blank">
-    <img src="https://img.shields.io/badge/%20-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" height="30" />
-  </a>
-
-  <a href="https://discord.gg/javecilla" target="_blank">
-    <img src="https://img.shields.io/badge/%20-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" height="30" />
-  </a>
-</p>
