@@ -23,6 +23,6 @@
 
 ### About Me -->
 
-Hi im Jerome Avecilla. I am deeply passionate about web development, my long-term focus has shifted towards **AI, LLM, and Agent systems**, specifically integrating these AI-powered capabilities into every web application I build. In recent months, I have been concentrating on **System and Agent architecture design** alongside exploring practical application scenarios to bring the 'AI Predicting the Future' vision to life. Based in Central Luzon, Philippines. I aim to grow into a ai systems engineering.
+Hi im Jerome Avecilla. Merging a strong foundation in web and mobile development with an advanced focus on AI, LLMs, and agent systems specifically integrating these intelligent capabilities into scalable applications. Actively designing system and agent architectures for proactive, AI-driven solutions. Based in Central Luzon, Philippines, scaling up as an AI systems engineer.
 
 Website: <a href="https://www.javecilla.com" target="_blank" rel="noopener">https://javecilla.com</a>
