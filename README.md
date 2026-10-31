@@ -23,6 +23,6 @@
 
 ### About Me -->
 
-Hi im Jerome. Merging a strong foundation in web and mobile development with an advanced focus on AI, LLMs, and agent systems specifically integrating these intelligent capabilities into scalable applications. Actively designing system and agent architectures for proactive, AI-driven solutions. Based in Central Luzon, Philippines, scaling up as an AI systems engineer
+Hi im Jerome. Merging a strong foundation in web and mobile development with an advanced focus on AI, LLMs, and agent systems specifically integrating these intelligent capabilities into scalable applications. Actively designing system and agent architectures for proactive, AI-driven solutions. Based in Bulacan, Philippines, scaling up as an AI systems engineer
 
 Website: <a href="https://www.javecilla.com" target="_blank" rel="noopener">https://javecilla.com</a>
