@@ -23,6 +23,10 @@
 
 ### About Me -->
 
-Hi im Jerome. Merging a strong foundation in web and mobile development with an advanced focus on AI, LLMs, and agent systems specifically integrating these intelligent capabilities into scalable applications. Actively designing system and agent architectures for proactive, AI-driven solutions. Based in Bulacan, Philippines, scaling up as an AI systems engineer
+As a developer building web and mobile applications, and making AI an increasingly natural part of my development process from exploring ideas and researching approaches to prototyping and implementation. AI tools help me move through development more efficiently while keeping quality and thoughtful implementation in focus. That work is also deepening my interest in building practical AI, LLM, and agent capabilities into products.
+
+At Diwa Learning Systems, I contribute to the development and testing of the internal systems. Before that, I spent over two years building and maintaining web-based systems for Golden Minds Colleges, Inc.
+
+Currently pursuing a BS in Information Technology at Bulacan State University, specializing in Web and Mobile Application Development. My interests include system architecture, Edge AI, natural language processing, generative AI, and agentic workflows.
 
 Website: <a href="https://www.javecilla.com" target="_blank" rel="noopener">https://javecilla.com</a>
