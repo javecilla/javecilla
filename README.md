@@ -23,7 +23,7 @@
 
 ### About Me -->
 
-Hi i am Jerome, as a developer building web and mobile applications, and making AI an increasingly natural part of my development process from exploring ideas and researching approaches to prototyping and implementation. AI tools help me move through development more efficiently while keeping quality and thoughtful implementation in focus. That work is also deepening my interest in building practical AI, LLM, and agent capabilities into products.
+As a developer building web and mobile applications, and making AI an increasingly natural part of my development process from exploring ideas and researching approaches to prototyping and implementation. AI tools help me move through development more efficiently while keeping quality and thoughtful implementation in focus. That work is also deepening my interest in building practical AI, LLM, and agent capabilities into products.
 
 Currently pursuing a BS in Information Technology at Bulacan State University, specializing in Web and Mobile Application Development. My interests include system architecture, Edge AI, natural language processing, generative AI, and agentic workflows.
 
